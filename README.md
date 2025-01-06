@@ -3,6 +3,7 @@
 A versão demonstrativa do e-book foi criada com auxílio do Chat GPT (texto) e Copilot (capa).
 O Midjourney não foi utilizado, devido a dificuldades de permissão para a utilização.
 
+Clique aqui para ler
 
 prompts utilizados:
 
@@ -27,3 +28,4 @@ Chat GPT
 6. “Agora, quero uma seção de agradecimentos ao leitor, informando que o eBook foi gerado com o auxílio de IA, revisado e diagramado pelo autor. Peça que os leitores enviem feedback para corrigir possíveis erros em uma nova versão.”
 
 7. “Adicione um disclaimer informando que esta é uma versão demonstrativa, ainda sem a revisão final, e que a versão completa será disponibilizada em breve.”
+
