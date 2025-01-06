@@ -1,5 +1,17 @@
 # prompts-recipe-to-create-a-ebook
+
+A versão demonstrativa do e-book foi criada com auxílio do Chat GPT (texto) e Copilot (capa).
+O Midjourney não foi utilizado, devido a dificuldades de permissão para a utilização.
+
+
 prompts utilizados:
+
+Microsoft Copilot
+
+"Cover for a book titled 'Gears of Consciousness,' which talks about World War I as if artificial intelligence had existed at the time."
+("capa para um livro intitulado "Engrenagens da Consciência", que fala sobre a primeira guerra mundial como se a inteligência artificial já existisse na época")
+
+Chat GPT
   
 1. “Atue como um escritor de ficção. Preciso de ajuda para escrever um livro com temática ligada à Inteligência Artificial existente na época da Primeira Guerra Mundial. Divida o livro em capítulos e crie uma história coesa.”
 
