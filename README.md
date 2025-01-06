@@ -3,8 +3,6 @@
 A versão demonstrativa do e-book foi criada com auxílio do Chat GPT (texto) e Copilot (capa).
 O Midjourney não foi utilizado, devido a dificuldades de permissão para a utilização.
 
-Clique aqui para ler
-
 prompts utilizados:
 
 Microsoft Copilot
